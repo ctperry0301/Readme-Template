@@ -62,6 +62,6 @@ insert your repository link here
 ### Making Changes
 1. Describe the process this team follows for making changes(i.e. Create a new branch -> commit change to branch -> create a PR -> ... 
 
-### Other Onboardin Info
+### Other Onboarding Info
 Provide additional *__non-sensitive__* information that an incoming developer would need to start making changes.
 Do __NOT__ put any passwords or api keys in the Readme
